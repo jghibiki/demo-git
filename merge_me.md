@@ -13,4 +13,10 @@ q  s  u  w
 y 
 
 # Problem #2
-Oh no! Problem #2 is missing! Merge it in to continue! ( Hint: This line should dissapear once you do! )
+You have found problem #2!
+
+I have the followin math expression:
+
+2 + 2 = 4
+
+but now it is right! Good job!
