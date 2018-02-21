@@ -15,8 +15,8 @@ y
 # Problem #2
 You have found problem #2!
 
-I have the followin math expression:
+I have the following math expression:
 
-2 + 2 = 4
+2 + 2 = 5
 
-but now it is right! Good job!
+but now it is wrong! Please go back in time to where it was right ( Hint: try "reverting" the changes )
